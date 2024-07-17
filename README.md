@@ -12,19 +12,19 @@ Essas são as rotas do site:
 
 Nela é feito o processo de login e também permite direcionamento à rota de Criar Conta;
 
-![alt text](<fotos_projeto/Imagem do WhatsApp de 2024-07-15 à(s) 20.44.36_9e2766ab.jpg>)
+![alt text](fotos_projeto/homepage.jpg)
 
 ### *criar_conta:*
 
 Permite a criação de uma nova conta, com sistema de checagem de senhas e de repetição de e-mail;
 
-![alt text](<fotos_projeto/Imagem do WhatsApp de 2024-07-15 à(s) 20.44.36_ffcaaa28.jpg>)
+![alt text](fotos_projeto/criarconta.jpg)
 
 ### *perfil:*
 
 Essa rota conta com a variável de id que permite a visualização do perfil de um usuário específico.
 
-![alt text](<fotos_projeto/Imagem do WhatsApp de 2024-07-15 à(s) 20.44.36_31efc5e2.jpg>)
+![alt text](fotos_projeto/perfil_e_add_fotos.jpg)
 
 Assim que a conta é criada ou o login é realizado, o usuário já é direcionado ao seu próprio perfil.
 
@@ -42,7 +42,7 @@ Ao clicar na logo FakePinterest, a página é direcionada ao "Feed", onde as ima
 
 Aqui, as imagens aparecerão quando forem adicionadas originalmente e sempre que forem compartilhadas por outros perfis.
 
-![alt text](<fotos_projeto/Imagem do WhatsApp de 2024-07-15 à(s) 20.44.36_044ef0b7.jpg>)
+![alt text](fotos_projeto/feed.jpg)
 
 Ao clicar em qualquer imagem no feed, o usuário será direcionado a uma página que lhe dará duas opções: ver o perfil que a compartilhou ou fazer a adição da imagem em seu próprio perfil.
 
@@ -50,7 +50,7 @@ Ao clicar em qualquer imagem no feed, o usuário será direcionado a uma página
 
 Permite o usuário adicionar ao próprio perfil qualquer foto já postada. É o compartilhamento.
 
-![alt text](<fotos_projeto/Imagem do WhatsApp de 2024-07-15 à(s) 20.44.36_31efc5e2.jpg>)
+![alt text](fotos_projeto/perfil_e_add_fotos.jpg)
 
 ### *Banco de Dados:*
 
