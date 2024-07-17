@@ -8,19 +8,19 @@ O projeto foi criado utilizando-se da linguagem Python, com o uso do framework F
 
 Essas são as rotas do site:
 
-*homepage:*
+### *homepage:*
 
 Nela é feito o processo de login e também permite direcionamento à rota de Criar Conta;
 
 ![alt text](<fotos_projeto/Imagem do WhatsApp de 2024-07-15 à(s) 20.44.36_9e2766ab.jpg>)
 
-*criar_conta:*
+### *criar_conta:*
 
 Permite a criação de uma nova conta, com sistema de checagem de senhas e de repetição de e-mail;
 
 ![alt text](<fotos_projeto/Imagem do WhatsApp de 2024-07-15 à(s) 20.44.36_ffcaaa28.jpg>)
 
-*perfil:*
+### *perfil:*
 
 Essa rota conta com a variável de id que permite a visualização do perfil de um usuário específico.
 
@@ -32,11 +32,11 @@ Ele pode checar outros perfis pelas imagens do feed e também clicando nas image
 
 Para retornar a seu próprio perfil, basta ele clicar em "Perfil" na barra de navegação no topo da página;
 
-*logout:*
+### *logout:*
 
 Na barra de navegação é sempre possível que o usuário clique em "Sair" para realizar o logout;
 
-*feed:*
+### *feed:*
 
 Ao clicar na logo FakePinterest, a página é direcionada ao "Feed", onde as imagens compartilhadas pelo usuário atual e por demais usuários podem ser visualizadas.
 
@@ -46,13 +46,13 @@ Aqui, as imagens aparecerão quando forem adicionadas originalmente e sempre que
 
 Ao clicar em qualquer imagem no feed, o usuário será direcionado a uma página que lhe dará duas opções: ver o perfil que a compartilhou ou fazer a adição da imagem em seu próprio perfil.
 
-*Adicionar:*
+### *Adicionar:*
 
 Permite o usuário adicionar ao próprio perfil qualquer foto já postada. É o compartilhamento.
 
 ![alt text](<fotos_projeto/Imagem do WhatsApp de 2024-07-15 à(s) 20.44.36_31efc5e2.jpg>)
 
-*Banco de Dados:*
+### *Banco de Dados:*
 
 Para administrar o site, foram criadas três tabelas no banco de dados: Usuario e Posts
 
